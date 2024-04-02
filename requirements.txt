@@ -3,3 +3,4 @@ flask-sqlalchemy
 flask-migrate
 ipython
 Faker
+Flask-WTF
