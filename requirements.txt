@@ -4,3 +4,4 @@ flask-migrate
 ipython
 Faker
 Flask-WTF
+gunicorn
